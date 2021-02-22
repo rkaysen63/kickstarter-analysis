@@ -16,10 +16,13 @@ This is an analysis of over 4000 Kickstarter crowdfunding campaigns to help a pl
 4. Categories were further broken down into subcategories and pivot tables were created to look at the outcomes of campaigns by category and subcategory.  
 5. Unix timestamps were converted into a day-month-year format and a pivot table was created to look for a relationship between outcomes and launch dates.
 6. Search function was used to zero-in on a particular play, ***Foresight***, in order to look at the market in Great Britain and to glean more information about this particular play.
-7. Louise wanted to learn more abou
+7. Used VLOOKUP to find funding information about 5 plays that were performed at the Edinburgh Festival Fringe.
+8. Success and failures of US plays were filtered separately.  Then the mean and median of goals and pledges were calculated and a comparison was maded between sucessful and failed campaigns.
 ## Results
-1. The median of the Average Donation of successful campaigns for US plays is $69 with an IQR of $53. Louise may be able to use this informtion to set a target donation that is likely to succeed and to offer incentives. 
-2. 412 of 671 crowdfunding campaigns for plays in the US, well over half, are successful!
+1. The median of the average donation for successful campaigns for US plays is $69 with an IQR of $53. Louise may be able to use this information to set a target donation that is likely to succeed and to offer incentives. 
+2. Over half of the crowdfunding campaigns for plays in the US are successful.  412 successful campaigns of 671 plays.
 3. An analysis of a time plot of launch dates shows that campaigns are more likely to succeed if they are kicked off in the month of May.
-4. The ***Foresight*** campaign was successful, reaching 100% of it's goal.  The average donation is $117.88 is higher than the US mean for plays and there were only 17 backers.  The goal, however, was 1/5th of Louise's goal for ***Fever*** and may have been easier to reach.
-5. ***Walken on Sunshine*** is a US play with the same goal of $10,000 as Louise's play, ***Fever***.  It had a successful campaign that was kickstarted in the US in April and the campaign ended in one month.  The average donation was $71.24, which is very close to the median average donation of US campaigns for plays.  ***Walken on Sunshine*** had 173 backers.
+4. The ***Foresight*** campaign was successful, reaching 100% of it's goal.  The average donation of $117.88 is higher than the US median for plays and there were only 17 backers.  It's goal of $2000 may have been easier to reach than Louise's since it was 1/5th ***Fever's*** goal.
+5. ***Walken on Sunshine*** is a US play with the same goal of $10,000 as Louise's play, ***Fever***.  It had a successful campaign that was kickstarted in the US in April and the campaign ended in one month.  The average donation was $71.24, which is barely over the median average donation for US campaigns for plays.  ***Walken on Sunshine*** had 173 backers.
+Five plays that Louise enjoyed at the Edinburgh Festival Fringe were funded by Kickstarter. All of 5 had successful funding campaigns.  The Median Goal and Median Pledge were at $2000 and $2020, respectively.   The median average donation was $36.61.
+By comparing the median (and likewise the mean) of successful campaign goals and pledges to failed campaign goals and pledges, a couple of things are apparent.  The failed campaigns generally have higher fundraising goals than successful campaigns and Louise's goal is 233% over the median goal of successful campaigns and outside the upper quartile of campaign goals.  
