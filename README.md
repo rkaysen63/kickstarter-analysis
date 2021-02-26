@@ -1,4 +1,4 @@
-# Kickstarter Analysis
+# Analysis of Kickstarter Crowdingfunding Campaigns 
 
 ## Table of Contents
 * [Overview](#overview)
