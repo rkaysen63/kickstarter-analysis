@@ -8,7 +8,7 @@
 
 ## Overview
 
-This is an analysis of over 4000 Kickstarter crowdfunding campaigns to help a playwright, Louise, who wants to start a crowdfunding campaign for a play that she wrote called ***Fever***. She proposes to open the play in the US and has budgeted $10,000 for the project.  Louise has also shown an interest in crowdfunding data in Great Britain, in particular, a play called ***Foresight***, five plays that she enjoyed at the Edinburgh Festival Fringe, and musicals in general. 
+This is an analysis of over 4000 Kickstarter crowdfunding campaigns to help a playwright, Louise, who wants to start a crowdfunding campaign for a play that she wrote called ***Fever***. She proposes to open the play in the US and has budgeted $10,000 for the project.  Louise has also shown an interest in crowdfunding data in Great Britain, in particular, a play called ***Foresight***, five plays that she enjoyed at the Edinburgh Festival Fringe, and musicals in general. (Data set, data-1-1-3-StarterBook.xlsx, from https://courses.bootcampspot.com/courses/546 Module 1.1.3.)
 
 ## Methods
 
